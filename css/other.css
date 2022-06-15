@@ -1,0 +1,110 @@
+
+
+.mainContent{
+    display: block;
+}
+.mainContent a{
+    color: #8224E3;
+    
+}
+
+.mainContent p{
+    text-align: justify;
+}
+h1 #mainContentTitle{
+    font-size: 3rem;
+}
+.caption{
+    padding: 0.1rem;
+    text-align: center;
+    font-style: italic;
+    color: #5a5d62;
+    display: block;
+}
+
+article{
+    float: left;
+    width: 70.17543859%;
+}
+
+/* sidebar */
+
+#sidebar{
+    float:right;
+    width: 27.19298245%;
+
+}
+
+.sidebarTitle{
+    border-bottom: 2px solid #8224E3;
+    font-size: 18px;
+    margin-bottom: 15px;
+    padding-bottom: 0;
+    line-height: 1.2;
+}
+
+.spanTitle{
+    background-color: #8224E3;
+    color: #ffffff;
+    padding: 6px 12px;
+    display: inline-block;
+    font-weight: normal;
+}
+
+.categorySearchText{
+    font: 16px 'Open Sans', serif;
+    line-height: 1.6;
+    word-wrap: break-word;
+
+}
+
+select{
+    font: 16px 'Open Sans', serif;
+    line-height: 1.6;
+    word-wrap: break-word;
+    border: 1px solid #dddddd;
+    color: #777777;
+    padding: 2px;
+    width: 60%;
+}
+
+
+/* form{
+
+} */
+
+.categorySearchContainer{
+    border: 1px solid #dddddd;
+    color: #777777;
+    padding: 2px;
+    width: 60%;
+}
+
+.images{
+    display: block;
+    margin-top: auto;
+    margin-bottom: auto;
+    width: 100%;
+    
+
+}
+.spellCastingVideo{
+    width:100%;
+     
+ }
+
+
+
+
+.mainContent:after {
+    clear: both;
+}
+
+footer{
+    display: inline-block;
+    bottom:0;
+    width:100%;
+}
+
+
+
